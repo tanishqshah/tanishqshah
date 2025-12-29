@@ -1,47 +1,47 @@
 <!-- SEO Keywords -->
-<!-- Tanishq Shah | GitHub Profile | Software Developer | Web Developer | Open Source -->
+<!-- Tanishq Shah | Google WSE | Web Software Engineer | Angular Developer | TypeScript | Java -->
 
 <h1 align="center">Hi 👋, I'm Tanishq Shah</h1>
-<h3 align="center">Aspiring Software Developer | Web Developer | Open Source Enthusiast</h3>
+<h3 align="center">Web Software Engineer (WSE) at Google | Angular • TypeScript • Java</h3>
 
 <p align="center">
   <a href="https://github.com/tanishqshah">GitHub</a> •
-  <a href="https://linkedin.com/in/tanishqshah31" target="_blank">LinkedIn</a>
+  <a href="https://linkedin.com/in/tanishq-shah" target="_blank">LinkedIn</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Student & passionate about **Software Development**
-- 🌱 Currently learning **Web Development & Programming**
-- 💻 Interested in **Frontend, Backend & Open Source**
-- 👯 Looking to collaborate on **Beginner-friendly Open Source Projects**
-- 📫 Reach me via **GitHub or LinkedIn**
+- 💼 **Web Software Engineer (WSE) at Google**
+- 🧑‍💻 Experienced in building **scalable, high-performance web applications**
+- 🏗️ Strong focus on **frontend architecture & enterprise systems**
+- 🌱 Continuously improving system design & clean code practices
+- 🤝 Interested in **open source collaboration & impactful projects**
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
-- HTML5
-- CSS3
-- JavaScript
-- Python (Basics)
+### 👨‍💻 Core Technologies
+- **Angular**
+- **TypeScript**
+- **Java**
 
-### ⚙️ Frameworks & Libraries
-- React.js (Learning)
-- Node.js (Learning)
+### ⚙️ Frontend
+- Angular (RxJS, NgRx, Component Architecture)
+- HTML5, CSS3, SCSS
+- Responsive & Performance-optimized UI
 
-### 🧰 Tools & Platforms
+### 🧰 Backend & Tools
+- Java (OOP, REST APIs)
 - Git & GitHub
-- VS Code
-- Linux / Windows
-- Firebase (Basics)
+- VS Code / IntelliJ
+- CI/CD & Code Reviews
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanishqshah&show_icons=true&theme=default"
@@ -50,26 +50,26 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqshah"
-       alt="GitHub streak stats for tanishqshah" />
+       alt="GitHub contribution streak for tanishqshah" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+<!-- ## 🌟 Featured Work
 
-### 🔹 Project Name
-**Description:** Short keyword-rich description of your project  
-**Tech Stack:** HTML, CSS, JavaScript  
-🔗 [View Repository](https://github.com/tanishqshah/REPO_NAME)
+### 🔹 Enterprise Web Applications
+**Description:** Scalable, maintainable web solutions built using Angular & TypeScript  
+**Focus Areas:** Performance, modular architecture, clean code  -->
 
 ---
 
-## 📌 Goals
+## 🎯 Professional Interests
 
-- ✅ Improve **Data Structures & Algorithms**
-- ✅ Build real-world **Web Applications**
-- ✅ Contribute to **Open Source**
-- ✅ Grow as a **Software Engineer**
+- Frontend Architecture & Design Patterns
+- Large-scale Web Applications
+- Performance Optimization
+- Clean Code & Best Practices
+- Mentoring & Knowledge Sharing
 
 ---
 
@@ -79,11 +79,11 @@
   <a href="https://github.com/tanishqshah">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github" />
   </a>
-  <a href="https://linkedin.com/in/tanishqshah31">
+  <a href="https://linkedin.com/in/tanishq-shah">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
   </a>
 </p>
 
 ---
 
-⭐ **If you like my work, consider starring my repositories!**
+⭐ *Feel free to explore my repositories and connect with me.*
