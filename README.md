@@ -1,24 +1,89 @@
-📫 How to reach:
+<!-- SEO Keywords -->
+<!-- Tanishq Shah | GitHub Profile | Software Developer | Web Developer | Open Source -->
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tanishq-shah-a89150211/)
+<h1 align="center">Hi 👋, I'm Tanishq Shah</h1>
+<h3 align="center">Aspiring Software Developer | Web Developer | Open Source Enthusiast</h3>
 
-💻 Working as Front-end Web Developer 
-<!--
-🌱 Learning <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
--->
-🔭 Tools I use: 
+<p align="center">
+  <a href="https://github.com/tanishqshah">GitHub</a> •
+  <a href="https://linkedin.com/in/tanishqshah31" target="_blank">LinkedIn</a>
+</p>
 
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="intellij idea" src="https://img.shields.io/badge/Intellij%20Idea-%2320232a.svg?&style=for-the-badge&logo=intellij-idea&logoColor=%2361DAFB"/> <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git%20-%23563D7C.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="linux" src="https://img.shields.io/badge/linux-%23ED8B00.svg?&style=for-the-badge&logo=linux&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/><img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+---
 
+## 🚀 About Me
 
+- 🎓 Student & passionate about **Software Development**
+- 🌱 Currently learning **Web Development & Programming**
+- 💻 Interested in **Frontend, Backend & Open Source**
+- 👯 Looking to collaborate on **Beginner-friendly Open Source Projects**
+- 📫 Reach me via **GitHub or LinkedIn**
 
-  
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanishqshah">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqshah">
+## 🛠️ Skills & Technologies
 
+### 👨‍💻 Programming Languages
+- HTML5
+- CSS3
+- JavaScript
+- Python (Basics)
 
+### ⚙️ Frameworks & Libraries
+- React.js (Learning)
+- Node.js (Learning)
 
+### 🧰 Tools & Platforms
+- Git & GitHub
+- VS Code
+- Linux / Windows
+- Firebase (Basics)
 
+---
 
+## 📈 GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanishqshah&show_icons=true&theme=default"
+       alt="GitHub stats for tanishqshah" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqshah"
+       alt="GitHub streak stats for tanishqshah" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🔹 Project Name
+**Description:** Short keyword-rich description of your project  
+**Tech Stack:** HTML, CSS, JavaScript  
+🔗 [View Repository](https://github.com/tanishqshah/REPO_NAME)
+
+---
+
+## 📌 Goals
+
+- ✅ Improve **Data Structures & Algorithms**
+- ✅ Build real-world **Web Applications**
+- ✅ Contribute to **Open Source**
+- ✅ Grow as a **Software Engineer**
+
+---
+
+## 🌍 Connect With Me
+
+<p>
+  <a href="https://github.com/tanishqshah">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/tanishqshah31">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
+  </a>
+</p>
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**
