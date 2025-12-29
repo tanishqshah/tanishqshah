@@ -14,8 +14,8 @@
 
   
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanishqshah&show_icons=true&theme=dark">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqshah&layout=compact&langs_count=16">
+<img src="https://github-readme-stats.vercel.app/api?username=tanishqshah">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqshah">
 
 
 
