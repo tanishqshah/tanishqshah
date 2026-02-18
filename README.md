@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/tanishqshah">GitHub</a> •
-  <a href="https://linkedin.com/in/tanishq-shah" target="_blank">LinkedIn</a>
+  <a href="https://linkedin.com/in/tanishqshah31" target="_blank">LinkedIn</a>
 </p>
 
 ---
